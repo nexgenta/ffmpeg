@@ -1,0 +1,3 @@
+[submodule "libswscale"]
+	path = libswscale
+	url = git://github.com/nexgenta/libswscale.git
